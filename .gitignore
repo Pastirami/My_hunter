@@ -1,0 +1,9 @@
+alt
+.vscode
+*.o
+.log
+my_hunter
+myhunter
+coding-style-reports.log
+*.a
+.vscode
